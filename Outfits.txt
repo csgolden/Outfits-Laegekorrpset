@@ -203,7 +203,7 @@
             [1] = {
                 outfitLabel = "Praktikant",
                 outfitData = {
-                    ["arms"]        = { item = 98,  texture = 0 },  -- Arms
+                    ["arms"]        = { item = 109,  texture = 0 },  -- Arms
                     ["t-shirt"]     = { item = 65, texture = 0 },  -- T-Shirt
                     ["torso2"]      = { item = 224, texture = 5 },  -- Jackets
                     ["vest"]        = { item = 0,   texture = 0 },  -- Vest
@@ -221,7 +221,7 @@
             [2] = {
                 outfitLabel = "Redder Elev",
                 outfitData = {
-                    ["arms"]        = { item = 98,  texture = 0 },  -- Arms
+                    ["arms"]        = { item = 109,  texture = 0 },  -- Arms
                     ["t-shirt"]     = { item = 65,  texture = 0 },  -- T-Shirt
                     ["torso2"]      = { item = 224, texture = 8 },  -- Jackets
                     ["vest"]        = { item = 0,   texture = 0 },  -- Vest
@@ -239,7 +239,7 @@
             [3] = {
                 outfitLabel = "Redder",
                 outfitData = {
-                    ["arms"]        = { item = 98,  texture = 0 },  -- Arms
+                    ["arms"]        = { item = 109,  texture = 0 },  -- Arms
                     ["t-shirt"]     = { item = 65,  texture = 0 },  -- T-Shirt
                     ["torso2"]      = { item = 224,  texture = 9 },  -- Jackets
                     ["vest"]        = { item = 0,   texture = 0 },  -- Vest
@@ -257,7 +257,7 @@
 			[4] = {
                 outfitLabel = "Paramediciner",
                 outfitData = {
-                    ["arms"]        = { item = 98,  texture = 0 },  -- Arms
+                    ["arms"]        = { item = 109,  texture = 0 },  -- Arms
                     ["t-shirt"]     = { item = 65,  texture = 0 },  -- T-Shirt
                     ["torso2"]      = { item = 224,  texture = 10 },  -- Jackets
                     ["vest"]        = { item = 0,   texture = 0 },  -- Vest
@@ -275,7 +275,7 @@
             [5] = {
                 outfitLabel = "Sygeplejerske Elev",
                 outfitData = {
-                    ["arms"]        = { item = 98,  texture = 0 },  -- Arms
+                    ["arms"]        = { item = 109,  texture = 0 },  -- Arms
                     ["t-shirt"]     = { item = 65,  texture = 0 },  -- T-Shirt
                     ["torso2"]      = { item = 224,  texture = 11 },  -- Jackets
                     ["vest"]        = { item = 0,   texture = 0 },  -- Vest
@@ -293,7 +293,7 @@
             [6] = {
                 outfitLabel = "Sygeplejerske",
                 outfitData = {
-                    ["arms"]        = { item = 98,  texture = 0 },  -- Arms
+                    ["arms"]        = { item = 109,  texture = 0 },  -- Arms
                     ["t-shirt"]     = { item = 65,  texture = 0 },  -- T-Shirt
                     ["torso2"]      = { item = 224,  texture = 12 },  -- Jackets
                     ["vest"]        = { item = 0,   texture = 0 },  -- Vest
@@ -311,7 +311,7 @@
             [7] = {
                 outfitLabel = "Læge Elev",
                 outfitData = {
-                    ["arms"]        = { item = 98,  texture = 0 },  -- Arms
+                    ["arms"]        = { item = 109,  texture = 0 },  -- Arms
                     ["t-shirt"]     = { item = 65,  texture = 0 },  -- T-Shirt
                     ["torso2"]      = { item = 224,  texture = 13 },  -- Jackets
                     ["vest"]        = { item = 0,   texture = 0 },  -- Vest
@@ -329,7 +329,7 @@
             [8] = {
                 outfitLabel = "Læge",
                 outfitData = {
-                    ["arms"]        = { item = 98,  texture = 0 },  -- Arms
+                    ["arms"]        = { item = 109,  texture = 0 },  -- Arms
                     ["t-shirt"]     = { item = 65,  texture = 0 },  -- T-Shirt
                     ["torso2"]      = { item = 224,  texture = 14 },  -- Jackets
                     ["vest"]        = { item = 0,   texture = 0 },  -- Vest
@@ -347,7 +347,7 @@
             [9] = {
                 outfitLabel = "Overlæge",
                 outfitData = {
-                    ["arms"]        = { item = 98,  texture = 0 },  -- Arms
+                    ["arms"]        = { item = 109,  texture = 0 },  -- Arms
                     ["t-shirt"]     = { item = 65,  texture = 0 },  -- T-Shirt
                     ["torso2"]      = { item = 224,  texture = 15 },  -- Jackets
                     ["vest"]        = { item = 0,   texture = 0 },  -- Vest
@@ -365,7 +365,7 @@
             [10] = {
                 outfitLabel = "Indsatsleder",
                 outfitData = {
-                    ["arms"]        = { item = 98,  texture = 0 },  -- Arms
+                    ["arms"]        = { item = 109,  texture = 0 },  -- Arms
                     ["t-shirt"]     = { item = 65,  texture = 0 },  -- T-Shirt
                     ["torso2"]      = { item = 224,  texture = 16 },  -- Jackets
                     ["vest"]        = { item = 0,   texture = 0 },  -- Vest
@@ -383,7 +383,7 @@
             [11] = {
                 outfitLabel = "Regionschef",
                 outfitData = {
-                    ["arms"]        = { item = 98,  texture = 0 },  -- Arms
+                    ["arms"]        = { item = 109,  texture = 0 },  -- Arms
                     ["t-shirt"]     = { item = 65,  texture = 0 },  -- T-Shirt
                     ["torso2"]      = { item = 224,  texture = 17 },  -- Jackets
                     ["vest"]        = { item = 0,   texture = 0 },  -- Vest
